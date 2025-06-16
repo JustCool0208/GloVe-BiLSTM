@@ -112,8 +112,8 @@ See full list in `requirements.txt`.
 
 ## 🤝 Contributors
 
-- Rohith A M ([@rohith-nitk](#))
-- Inspired by collaboration with friends @Anant, @Nikhil, and @Omkar
+- Rohith A M ([@rohith](#))
+
 
 ---
 
